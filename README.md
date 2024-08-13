@@ -1,1 +1,1 @@
-"# StaffSync" 
+Staffsync was a minor project of my own that I created in my freetime that worked to allow teams, companies, or other entities a way to properly record work flow of their teams, interact with their teams. It also served to properly catalogue teams and divisions within sort of company or class, and properly manage it.
