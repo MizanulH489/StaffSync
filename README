@@ -1,0 +1,10 @@
+To run this system you need to have mysql and a server running for the database. I used xampp to run the system which you can easily download. I used mainly java, css, and sql
+Run the sql from the 'student.sql' file after creating a database called studentmanager_db.
+Note: You can change the name of the database in the class DatabaseConfig.java.
+      You also need to navigate to this folder to set up any changes to the database URL in order to run this properly.
+
+	The app.java is essentially the index file in this case.
+
+The user will be able to register, and also login.  
+
+I hosted using AWS live

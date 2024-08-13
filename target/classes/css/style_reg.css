@@ -1,0 +1,138 @@
+body {
+	font-family: sans-serif;
+	background-color: #00688B;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	background-size: cover;
+}
+
+.container {
+	width: 600px;
+	margin:0.5% auto;
+	border-radius: 25px;
+	box-shadow: 0 0 17px #333;
+}
+
+.header {
+	text-align: center;
+	padding-top: 15px;
+}
+
+.header h1 {
+	color: #333;
+	font-size: 45px;
+	margin-bottom: 25px;
+}
+
+.main {
+	text-align: center;
+}
+
+.main input, button {
+	width: 300px;
+	height: 40px;
+	border:none;
+	outline: none;
+	padding-left: 10px;
+	box-sizing: border-box;
+	font-size: 15px;
+	color: #333;
+	margin-bottom: 40px;
+}
+
+.main button {
+	padding-left: 0;
+	background-color: #83acf1;
+	letter-spacing: 1px;
+	font-weight: bold;
+	margin-bottom: 70px;
+	display: block;
+	margin-left: 24%;
+}
+
+.main button:hover {
+	box-shadow: 2px 2px 5px #555;
+	background-color: #7799d4;
+}
+.main input:hover {
+	box-shadow: 2px 2px 5px #555;
+	background-color: #ddd;
+}
+
+.main span {
+	position: relative;
+}
+
+.main i {
+	position: absolute;
+	left: 15px;
+	color: #333;
+	font-size: 16px;
+	top: 2px;
+}
+#registerAcc{
+    display: none;
+}
+/* Styling for the combo box label */
+ .combo-label {
+   display: inline-block;
+   margin-right: 5px;
+ }
+/* Styling for the combo box input */
+.combo-input {
+  background-color: #FFDD88;
+  border: 1px solid #ddd;
+  padding: 5px;
+  transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+/* Styling for the combo box input when focused (clicked) */
+.combo-input:focus {
+  background-color: rgb(250, 250, 210); /* Slightly different color for a glowing effect */
+}
+
+/* Styling for the dropdown menu */
+.combo-menu {
+  background-color: white; /* Background color for the dropdown menu */
+  border: 1px solid #ddd;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  display: none; /* Hide the dropdown by default */
+}
+
+/* Styling for list items in the dropdown menu */
+.combo-menu option {
+  padding: 5px;
+}
+.combo {
+ display: inline-block;
+}
+.reg_status{
+  color: linear-gradient(45deg, #7FFF7F, #FF6347);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
